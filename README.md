@@ -17,6 +17,9 @@ This coures is (at the moment) too short to handle the topics listed below in
 much detail. We will however try to give you a good overview of the available
 tools so that you can explore further on your own.
 
+Computers are provided in the EDV Lab but you are encouraged to bring your own
+laptop so that you have a portable development environment.
+
 ## Git
 
 You might already wonder what the introduction to this course is doing on
