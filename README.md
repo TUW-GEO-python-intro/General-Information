@@ -54,19 +54,25 @@ at least one of the projects.
 
 ## TU Wien
 
+The relevant documents are
+[the code of conduct of TU Wien](http://www.tuwien.ac.at/en/services/recht/studium_und_forschung/information_betreffend_studierende/code_of_conduct_regeln_zur_sicherung_guter_wissenschaftlicher_praxis_beschluss_des_rektorates_vom_23_oktober_2007_deutsche_fassung_englische_fassung/)
+and the
+[Directive concerning the handling of plagiarism in academic papers](https://www.tuwien.ac.at/fileadmin/t/ukanzlei/Umgang_mit_Plagiaten_Engl.pdf)
+and it is encouraged to follow them both.
+
 ## Instructor
 
 Reuse and building upon ideas or code are major parts of modern software
 development and science. As a programmer or scientist you will seldomly write
-things completely from scratch. This class is structured such that all solutions
-are public. You are encouraged to learn from the work of your peers. I won't
-hunt down people who are simply copying-and-pasting solutions, because without
-challenging themselves, they are simply wasting their time taking this class and
-will probably not go very far in life.
+things completely from scratch. This class is structured such that solutions
+posted on Github are public. You are encouraged to learn from the work of your
+peers. People who are simply copying-and-pasting solutions, without challenging
+themselves, are simply wasting their time taking this class.
 
 Please respect the terms of use and/or license of any code you find, and if you
 reimplement or duplicate an algorithm or code from elsewhere, credit the
-original source with an inline comment.
+original source with an inline comment and explain what it does in your own
+words.
 
 ## License
 
