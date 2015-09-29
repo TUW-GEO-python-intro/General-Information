@@ -1,3 +1,24 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
+
+- [Aim of the course](#aim-of-the-course)
+- [Organization](#organization)
+- [Course Overview](#course-overview)
+    - [Git](#git)
+    - [List of topics covered](#list-of-topics-covered)
+    - [Homework/Projects](#homeworkprojects)
+    - [Installation of Python](#installation-of-python)
+    - [Editing Python code](#editing-python-code)
+- [Structure of this Github Group](#structure-of-this-github-group)
+- [Additional Resources](#additional-resources)
+- [Improvement of the slides or any other content](#improvement-of-the-slides-or-any-other-content)
+- [Statements on Plagiarism](#statements-on-plagiarism)
+    - [TU Wien](#tu-wien)
+    - [Instructor](#instructor)
+    - [License](#license)
+
+<!-- markdown-toc end -->
+
 # Aim of the course
 
 Python is widely used in scientific applications. In this course the students
