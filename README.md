@@ -59,6 +59,12 @@ distribution includes all the
 
 - coming
 
+# Improvement of the slides or any other content
+
+If you find an error, typo or have a suggestion for improvement of the course
+then please raise an issue in the appropriate repository or open a pull request
+including the corrections.
+
 # Statements on Plagiarism
 
 ## TU Wien
