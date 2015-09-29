@@ -3,13 +3,13 @@
 
 - [Aim of the course](#aim-of-the-course)
 - [Organization](#organization)
+    - [Structure of this Github Group](#structure-of-this-github-group)
 - [Course Overview](#course-overview)
     - [Git](#git)
     - [List of topics covered](#list-of-topics-covered)
     - [Homework/Projects](#homeworkprojects)
     - [Installation of Python](#installation-of-python)
     - [Editing Python code](#editing-python-code)
-- [Structure of this Github Group](#structure-of-this-github-group)
 - [Additional Resources](#additional-resources)
 - [Improvement of the slides or any other content](#improvement-of-the-slides-or-any-other-content)
 - [Statements on Plagiarism](#statements-on-plagiarism)
@@ -31,6 +31,11 @@ data.
 Exact Course Dates and room assignments can be found on the
 [TISS site](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?windowId=96a&courseNr=120050&semester=2015W)
 of this course.
+
+## Structure of this Github Group ##
+
+Slides can be found in the [slide-deck repository](https://github.com/TUW-GEO-python-intro/slide-deck).
+There will be separate repositories for the Exercises.
 
 # Course Overview
 
@@ -107,10 +112,6 @@ want to try:
 - [Vim](http://www.vim.org/): Has it's own modal editing paradigm - also
   available on other editors
 
-# Structure of this Github Group
-
-Slides can be found in the [slide-deck repository](https://github.com/TUW-GEO-python-intro/slide-deck).
-There will be separate repositories for the Exercises.
 
 # Additional Resources
 
