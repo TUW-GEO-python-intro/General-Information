@@ -15,7 +15,7 @@
 - [Statements on Plagiarism](#statements-on-plagiarism)
     - [TU Wien](#tu-wien)
     - [Instructor](#instructor)
-    - [License](#license)
+- [License](#license)
 
 <!-- markdown-toc end -->
 
@@ -146,7 +146,7 @@ reimplement or duplicate an algorithm or code from elsewhere, credit the
 original source with an inline comment and explain what it does in your own
 words.
 
-## License
+# License
 
 Parts of this introduction and the structure of this syllabus are taken from the
 [advanced-js syllabus](https://github.com/advanced-js/syllabus). 
