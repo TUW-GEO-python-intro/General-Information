@@ -5,7 +5,7 @@ will learn the basics of Python and its most important third party packages. The
 students will also learn to work with data formats commonly used for geospatial
 data.
 
-# Organizational things
+# Organization
 
 Exact Course Dates and room assignments can be found on the
 [TISS site](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?windowId=96a&courseNr=120050&semester=2015W)
