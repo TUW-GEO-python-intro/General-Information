@@ -46,7 +46,16 @@ at least one of the projects.
 - Students will be required to complete 2-3 projects during the semester. At
   least one of the projects will have to be handed in on Github.
 
-# Resources
+## Installation of Python
+
+We will try out several Python packages in this course. Some of them are not
+straighforward to install from source, especially on Windows PC's. To be able to
+use all the packages needed for this course easily we will use the
+[Anaconda Python Distribution](https://www.continuum.io/downloads#all). This
+distribution includes all the
+[packages we need an many more](http://docs.continuum.io/anaconda/pkg-docs).
+
+# Additional Resources
 
 - coming
 
