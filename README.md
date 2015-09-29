@@ -44,7 +44,7 @@ at least one of the projects.
 - Documentation (Sphinx)
 - Testing
 
-# Homework/Projects
+## Homework/Projects 
 
 - Students will be required to complete 2-3 projects during the semester. At
   least one of the projects will have to be handed in on Github.
@@ -57,6 +57,39 @@ use all the packages needed for this course easily we will use the
 [Anaconda Python Distribution](https://www.continuum.io/downloads#all). This
 distribution includes all the
 [packages we need an many more](http://docs.continuum.io/anaconda/pkg-docs).
+
+## Editing Python code
+
+For editing Python code you will need at least a text editor. You can also use
+an Integrated Development Environment (IDE) if a text editor is too minimal for
+you. If you do not have a favorite text editor/Development Environment then I
+would recommend trying a few to see which one you like best.
+
+The following is a list (in alphabetical order) of text editors/IDE's you might
+want to try:
+
+- [Atom](https://atom.io/): Very customizable text editor by Github. Based on
+  web technologies.
+- [Emacs](http://www.gnu.org/software/emacs/): Customizable to the core but has
+  a high learning curve
+- [Notepad ++](https://notepad-plus-plus.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm/): Very popular Python IDE by JetBrains
+- [PyDev](http://www.pydev.org/): Eclipse Plugin for Python Development
+- [Spacemacs](https://github.com/syl20bnr/spacemacs) which is based on Emacs but
+  uses the modal editing from Vim. Still in development, try it out if you are
+  really interested.
+- [Spyder](https://github.com/spyder-ide/spyder): "Scientific" Python
+  Development Environment. Similar to Matlab in some regards.
+- [Sublime Text](http://www.sublimetext.com/): Very popular text editor for
+  multiple languages
+- [UltraEdit](http://www.ultraedit.com/):
+- [Vim](http://www.vim.org/): Has it's own modal editing paradigm - also
+  available on other editors
+
+# Structure of this Github Group
+
+Slides can be found in the [slide-deck repository](https://github.com/TUW-GEO-python-intro/slide-deck).
+There will be separate repositories for the Exercises.
 
 # Additional Resources
 
