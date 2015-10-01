@@ -51,7 +51,7 @@ laptop so that you have a portable development environment.
 You might already wonder what the introduction to this course is doing on
 Github. To clarify this we will also offer a short introduction to Version
 Control / Git. This is necessary knowledge for anyone writing programs. Basic
-Git knowledge tought in the Git introduction will also be necessary to complete
+Git knowledge taught in the Git introduction will also be necessary to complete
 at least one of the projects.
 
 ## List of topics covered
