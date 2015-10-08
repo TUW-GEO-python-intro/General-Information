@@ -29,7 +29,8 @@ data.
 # Organization
 
 Exact Course Dates and room assignments can be found on the
-[TISS site](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?windowId=96a&courseNr=120050&semester=2015W)
+[TISS site](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?windowId=e8e&courseNr=120050&semester=2015W)
+
 of this course.
 
 ## Structure of this Github Group ##
