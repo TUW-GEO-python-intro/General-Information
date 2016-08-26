@@ -101,9 +101,7 @@ want to try:
 - [Notepad ++](https://notepad-plus-plus.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/): Very popular Python IDE by JetBrains
 - [PyDev](http://www.pydev.org/): Eclipse Plugin for Python Development
-- [Spacemacs](https://github.com/syl20bnr/spacemacs) which is based on Emacs but
-  uses the modal editing from Vim. Still in development, try it out if you are
-  really interested.
+- [Spacemacs](https://github.com/syl20bnr/spacemacs): Great configuration for Emacs.
 - [Spyder](https://github.com/spyder-ide/spyder): "Scientific" Python
   Development Environment. Similar to Matlab in some regards.
 - [Sublime Text](http://www.sublimetext.com/): Very popular text editor for
